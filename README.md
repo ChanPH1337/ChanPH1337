@@ -1,5 +1,5 @@
 ## Hi there 👋, I 'm Pin Han (안녕하세요 핀한입니다) 
-Aspiring Data Engineer, Data StoryTeller | Learning through bootcamps and projects | Kdrama 
+Aspiring Data Engineer | Learning through bootcamps and projects | Kdrama 
 
 - 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning Data Engineering, Power BI, Tableau
