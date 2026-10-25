@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Pin Han (안녕하세요 핀한입니다) 
+## Hi there 👋, I'm Pin Han 
 Digital Transformation with AI | Learning through bootcamps and projects | Kdrama 
 
 - 🔭 I’m currently working on my portfolio
